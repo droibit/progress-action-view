@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ProgressActionView</string>
+    <string name="menu_title_refresh">Refresh</string>
+    <string name="menu_title_settings">Settings</string>
 </resources>

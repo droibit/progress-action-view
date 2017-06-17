@@ -14,6 +14,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ToolbarActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ToolbarFragmentActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
